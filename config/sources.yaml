@@ -1,0 +1,62 @@
+# Where events come from. One entry per source.
+#
+# Every source needs: id (unique, never rename it - it feeds event IDs), name, type.
+# Optional on every source:
+#   enabled: false        turn a source off without deleting it
+#   category: <name>      default category for its events (see interests.yaml)
+#
+# Types:
+#   ics           a public calendar feed (.ics). Best option - use it whenever a site has one.
+#   badslava      the badslava.com open-mic page format (weekly recurring by weekday).
+#   llm_page      any web page; Claude reads it and pulls out events for the target week.
+#                 Needs ANTHROPIC_API_KEY. Optional follow_link: regex - fetch `url`, then
+#                 follow the first link whose href matches (for pages with a new URL each week).
+#   ticketmaster  Ticketmaster Discovery API (covers Live Nation venues). Needs TICKETMASTER_API_KEY.
+
+sources:
+  - id: phillydsa
+    name: Philly DSA
+    type: ics
+    url: https://calendar.google.com/calendar/ical/baed11tvm1nnnb3am8ihpafq7c%40group.calendar.google.com/public/basic.ics
+    category: dsa
+    link: https://www.phillydsa.org/events
+
+  - id: badslava-comedy
+    name: Badslava comedy open mics
+    type: badslava
+    url: https://badslava.com/philadelphia-open-mics.php
+    category: open-mic
+    # Badslava's own listing dates looked stale when this was set up (Jan 2025).
+    # Treat these as "probably still running"; the digest flags the page's last-updated date.
+    stale_after_days: 60
+
+  - id: freelibrary-authors
+    name: Free Library author events
+    type: llm_page
+    url: https://libwww.freelibrary.org/calendar/tag/author-events
+    category: literary
+
+  - id: freelibrary-foundation
+    name: Free Library Foundation author series
+    type: llm_page
+    url: https://freelibraryfoundation.org/events/
+    category: literary
+
+  - id: billypenn-weekly
+    name: Billy Penn weekly calendar
+    type: llm_page
+    url: https://billypenn.com/
+    follow_link: 'billypenn\.com/\d{4}/\d{2}/\d{2}/philly-weekly-events-calendar'
+
+  - id: visitphilly-week
+    name: Visit Philly this week
+    type: llm_page
+    url: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+
+  - id: ticketmaster-comedy
+    name: Ticketmaster / Live Nation comedy
+    type: ticketmaster
+    category: comedy
+    classifications: [Comedy]
+    city: Philadelphia
+    state: PA

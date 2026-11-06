@@ -1,0 +1,39 @@
+# Events you add by hand. Edit this file (GitHub's web editor or mobile app is fine)
+# and the calendar rebuilds on push.
+#
+# recurring: repeats by weekday.
+#   days: [mon, tue, wed, thu, fri, sat, sun]
+#   time: "18:00"  (24h, Philadelphia time)   duration_min: default 120
+#   every: 1 (weekly) or 2 (every other week, counted from start_date)
+#   start_date / until: optional YYYY-MM-DD bounds
+#   paused: true to hide it without deleting
+#   last_verified: YYYY-MM-DD - the digest warns once this is older than 60 days
+#
+# one_off: single events.
+#   start: "2026-11-12 19:00"   end: optional   (or all_day: true with a date)
+
+recurring:
+  - title: Chess at Rittenhouse Square
+    days: [wed]
+    time: "18:00"
+    duration_min: 180
+    venue: Rittenhouse Square
+    address: Rittenhouse Square, Philadelphia, PA
+    category: chess
+    last_verified: 2026-11-04
+
+  - title: Chess at Rittenhouse Square
+    days: [sun]
+    time: "13:00"
+    duration_min: 240
+    venue: Rittenhouse Square
+    address: Rittenhouse Square, Philadelphia, PA
+    category: chess
+    last_verified: 2026-11-04
+
+one_off: []
+  # - title: Example reading
+  #   start: "2026-11-20 19:00"
+  #   venue: Some Bookstore
+  #   url: https://example.com
+  #   category: literary

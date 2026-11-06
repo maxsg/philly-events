@@ -1,0 +1,30 @@
+# What counts as relevant. Used two ways:
+#  1. llm_page sources: Claude only keeps events that fit this profile and scores them 1-5.
+#  2. Categories: each becomes its own calendar feed (docs/feeds/<category>.ics), so you can
+#     subscribe separately in Google Calendar and color/toggle them.
+
+profile: >
+  A writer and serious literary reader in Fishtown/Northern Liberties who does standup,
+  plays chess, cooks (interested in professional kitchens and food culture), and likes
+  film, geopolitics, and left politics. Prefers readings, author talks, literary nights,
+  comedy shows and showcases, food events with chefs or cookbook authors, repertory and
+  indie film, talks on politics/history, and unusual one-off cultural events. Not
+  interested in arena pop concerts, kids' programming, or generic bar promos.
+
+min_relevance: 3   # llm_page events scored below this are dropped
+
+categories:
+  literary: Readings, author talks, poetry, book events
+  comedy: Standup shows and showcases
+  open-mic: Comedy open mics
+  chess: Chess
+  food: Food events, chefs, cookbook talks, food festivals
+  film: Screenings and film events
+  dsa: Philly DSA
+  politics: Talks, panels, organizing outside DSA
+  arts: Theater, dance, galleries, music worth noting
+  other: Anything else that made the cut
+
+llm:
+  model: claude-haiku-5-5
+  max_page_chars: 60000

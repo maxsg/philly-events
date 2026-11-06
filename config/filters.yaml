@@ -1,0 +1,22 @@
+# Rules applied to every event after fetching, top to bottom. First matching rule wins;
+# events that match no rule are kept.
+#
+# Each rule:
+#   source:  source id, list of ids, or "*" (default "*")
+#   match:   regex (case-insensitive) tested against `field`
+#   field:   title | description | venue | any   (default: title)
+#   action:  drop | keep | category   (category also needs `set: <category>`)
+#
+# Right now everything from DSA is kept. To hide committee meetings you're not on,
+# uncomment the pair below: the "keep" rule must come first so your committee survives.
+
+rules: []
+#  - source: phillydsa
+#    match: 'housing'            # a committee you ARE on
+#    action: keep
+#  - source: phillydsa
+#    match: '(committee|working group|steering).*(meeting|call)'
+#    action: drop
+#  - source: "*"
+#    match: 'trivia'
+#    action: drop
