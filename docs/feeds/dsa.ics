@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//philly-events//github.com/maxsg/philly-events//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Philly: dsa
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Housing Committee Monthly Meeting
+DTSTART:20261102T230000Z
+DTEND:20261103T010000Z
+DTSTAMP:20261106T005453Z
+UID:0167261eb4d959f2fcf7@philly-events
+CATEGORIES:dsa
+DESCRIPTION:RSVP here: <a href="https://bit.ly/rsvp-housing-dsa">https://
+ bit.ly/rsvp-housing-dsa</a>\nSource: Philly DSA\nhttps://www.phillydsa.org
+ /events
+LOCATION:Workers United\, 22 S 22nd St\, Philadelphia\, PA 19103\, USA
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"The Dispossessed" Book Club: Session #5
+DTSTART:20261103T000000Z
+DTEND:20261103T013000Z
+DTSTAMP:20261106T005453Z
+UID:a0a5038e33b78d2ce570@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/the-dispossessed-book-club-session-5">ht
+ tps://actionnetwork.org/events/the-dispossessed-book-club-session-5</a></p
+ >\n    \n    <h5><strong>Description:</strong></h5>\n    <p>Join Philly DS
+ A for an exploration of the anarchist philosophy through the Science Ficti
+ on Novel <em>The Dispossessed </em>By Ursula K. Le Guin. Join to discuss\,
+  understand\, and critique anarchist philosophy by examining an imagined e
+ xample of what such a society could look like through virtual discussion.<
+ /p><p>This is a <strong>theory light</strong><strong><em> </em></strong><s
+ trong>reading group</strong>\, anarchist theory will be examined as option
+ al supplements\, but any reading beyond the novel will be done together du
+ ring the session.</p><p>This session will cover Chapters 7-8.</p><div><br>
+ </div>\nSource: Philly DSA\nhttps://www.phillydsa.org/events
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marxist Reading Group: The ABCs of Communism
+DTSTART:20261104T230000Z
+DTEND:20261105T003000Z
+DTSTAMP:20261106T005453Z
+UID:00fd259f58d59dcc7bfc@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/marxist-reading-group-the-abcs-of-commun
+ ism">https://actionnetwork.org/events/marxist-reading-group-the-abcs-of-co
+ mmunism</a></p>\n    \n    <h5><strong>Description:</strong></h5>\n    <p>
+ On Wednesday\, November 4th the Marxist Reading Group will be having our t
+ hird session to discuss chapters 4 and 5 of The ABC of Communism by Nikola
+ i Bukharin and Evgenii Preobrazhensky\, the canonical textbook of communis
+ t theory for socialists across the globe in the 1920’s.<br>Attendees are
+  encouraged to have read the chapters beforehand and should note that this
+  is intended to be a more advanced theoretical discussion than Socialism 1
+ 01 or Night School\, which are more introductory.<br>Participants are not 
+ required to have been present at the previous sessions\, everyone is welco
+ me!<br>We will be meeting at 924 Cherry St\, on the 5th floor at 6pm. The 
+ full text can be found at:<br><a href="https://www.marxists.o\nSource: Phi
+ lly DSA\nhttps://www.phillydsa.org/events
+LOCATION:People's Headquarters\, 924 Cherry Street\, PHILADELPHIA\, PA 191
+ 07
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwest Philly Candidate Meet-and-Greet Happy Hour
+DTSTART:20261106T220000Z
+DTEND:20261107T000000Z
+DTSTAMP:20261106T005453Z
+UID:5d8e7ff33e37e63c3378@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/northwest-philly-candidate-meet-and-gree
+ t-happy-hour">https://actionnetwork.org/events/northwest-philly-candidate-
+ meet-and-greet-happy-hour</a></p>\n    \n    <h5><strong>Description:</str
+ ong></h5>\n    <p>Following up on our MASSIVE victory in Philly earlier th
+ is year in securing Rep. Chris Rabb as a Democratic Socialist Congressman-
+ elect\, we are turning our sight towards electing socialist candidates in 
+ City Hall. As the chapter moves through the endorsement process for City C
+ ouncil candidates for 2027\, we are moving towards building our muscle in 
+ Northwest Philly where we learned from the Rabb race that socialism is ind
+ eed welcome there.</p><div><br>If you live in East Falls\, Roxborough\, Ma
+ nayunk\, Germantown\, Mt Airy\, Chestnut Hill\, Nicetown\, Oak Lane\, or a
+ nywhere in Philly or the suburbs really\, you are cordially welcome to a <
+ strong>DSA and Friends Happy Hour on Friday Nov 6\, 5-7 pm\, at Att\nSourc
+ e: Philly DSA\nhttps://www.phillydsa.org/events
+LOCATION:Attic Brewing\, 137 Berkley St\, Philadelphia\, PA 19144
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philly DSA New Member 101
+DTSTART:20261108T160000Z
+DTEND:20261108T173000Z
+DTSTAMP:20261106T005453Z
+UID:6bf2f6d41086e51e132b@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/new-member-101-13">https://actionnetwork
+ .org/events/new-member-101-13</a></p>\n    \n    <h5><strong>Description:<
+ /strong></h5>\n    <p>This Zoom call is for new members AND anyone thinkin
+ g about joining DSA! Come learn what DSA is\, how Philly DSA works\, and t
+ he many ways you can get involved!<br>Across the country\, more people are
+  turning to democratic socialism because we’re calling for a more democr
+ atic society\, and we’re organizing to build it together. Now’s the ti
+ me to join DSA\, with more than 2\,500 dues-paying members in Philly! <br>
+ Come learn about democratic socialism and our campaigns to build multiraci
+ al working class power in Philadelphia... we need you with us to build a b
+ etter world!</p>\nSource: Philly DSA\nhttps://www.phillydsa.org/events
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+END:VCALENDAR
