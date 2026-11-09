@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Punch Line Philly
 DTSTART:20261102T214500Z
 DTEND:20261102T234500Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:b392fda4ed573db62cc0@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Housing Committee Monthly Meeting
 DTSTART:20261102T230000Z
 DTEND:20261103T010000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:0167261eb4d959f2fcf7@philly-events
 CATEGORIES:dsa
 DESCRIPTION:RSVP here: <a href="https://bit.ly/rsvp-housing-dsa">https://
@@ -38,7 +38,7 @@ SUMMARY:Open mic: Infusion Lounge - Philly's Best Cocktails\, Hookahs & Ci
  gars
 DTSTART:20261102T230000Z
 DTEND:20261103T010000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:b9e93940a9b65579fa70@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:"The Dispossessed" Book Club: Session #5
 DTSTART:20261103T000000Z
 DTEND:20261103T013000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:a0a5038e33b78d2ce570@philly-events
 CATEGORIES:dsa
 DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: North Third
 DTSTART:20261103T000000Z
 DTEND:20261103T020000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:84ac7878d501a856e077@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: 254
 DTSTART:20261103T013000Z
 DTEND:20261103T033000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:38c79821a805e74a25a4@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Saint Lazarus Bar
 DTSTART:20261103T020000Z
 DTEND:20261103T040000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:0b74e0464f069e7af25a@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Ortlieb's
 DTSTART:20261104T000000Z
 DTEND:20261104T020000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:c3b547c7cf4ffe8d4f95@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Helium Comedy Club
 DTSTART:20261104T003000Z
 DTEND:20261104T023000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:92a0704f7759df7c0c11@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Sweeney’s Station Saloon
 DTSTART:20261104T010000Z
 DTEND:20261104T030000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:260e6e06bf4922ee9ca2@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Time
 DTSTART:20261104T020000Z
 DTEND:20261104T040000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:b0999fd98adc3428b44b@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: 2 Street Pub
 DTSTART:20261104T033000Z
 DTEND:20261104T053000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:d723e9fbe3ef75df798c@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Love Now Media HQ
 DTSTART:20261104T210000Z
 DTEND:20261104T230000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:4f9dfc6a73285258fba4@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Chess at Rittenhouse Square
 DTSTART:20261104T230000Z
 DTEND:20261105T020000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:e6d64bc368d5729eab4d@philly-events
 CATEGORIES:chess
 DESCRIPTION:Source: Your list
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Marxist Reading Group: The ABCs of Communism
 DTSTART:20261104T230000Z
 DTEND:20261105T003000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:00fd259f58d59dcc7bfc@philly-events
 CATEGORIES:dsa
 DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Cookie's Place
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:e1624a26883635a15a75@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Club 624
 DTSTART:20261105T003000Z
 DTEND:20261105T023000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:6fdec936dc78cd8e01d0@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Paddy Whacks
 DTSTART:20261105T010000Z
 DTEND:20261105T030000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:9348bfb381b42240bdf9@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: SouthHouse
 DTSTART:20261105T010000Z
 DTEND:20261105T030000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:3607ccf3ee832cc5486d@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Stir Lounge
 DTSTART:20261105T010000Z
 DTEND:20261105T030000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:6fdd90b120cac686bcbf@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Watutsi Pub
 DTSTART:20261105T020000Z
 DTEND:20261105T040000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:d08089238ecef76cb552@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Gojjo
 DTSTART:20261106T000000Z
 DTEND:20261106T020000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:3d772e262f0d8fa5b6cd@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: The Monkey Club
 DTSTART:20261106T000000Z
 DTEND:20261106T020000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:b858e690cfe324c666c7@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: McGillin's Olde Ale House
 DTSTART:20261106T020000Z
 DTEND:20261106T040000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:623df8313b9c1670c367@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: Moonshine Philly
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:7cc427c3436fd773b9e8@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Northwest Philly Candidate Meet-and-Greet Happy Hour
 DTSTART:20261106T220000Z
 DTEND:20261107T000000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:5d8e7ff33e37e63c3378@philly-events
 CATEGORIES:dsa
 DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: One Art Community Center
 DTSTART:20261107T000000Z
 DTEND:20261107T020000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:5868a613abc847c6feab@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:Open mic: The Heart Ballroom Philly (Banquet Hall)
 DTSTART:20261107T003000Z
 DTEND:20261107T023000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:650d502d71da2ab15c9c@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:Philly DSA New Member 101
 DTSTART:20261108T160000Z
 DTEND:20261108T173000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:6bf2f6d41086e51e132b@philly-events
 CATEGORIES:dsa
 DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:Chess at Rittenhouse Square
 DTSTART:20261108T180000Z
 DTEND:20261108T220000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:ca3bd6df35b3f0e5f715@philly-events
 CATEGORIES:chess
 DESCRIPTION:Source: Your list
@@ -446,8 +446,686 @@ BEGIN:VEVENT
 SUMMARY:Open mic: The Fallser Club
 DTSTART:20261108T230000Z
 DTEND:20261109T010000Z
-DTSTAMP:20261106T005453Z
+DTSTAMP:20261109T014705Z
 UID:54682b87240ffc5e88d4@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:The Fallser Club\, 3721 Midvale Ave Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Punch Line Philly
+DTSTART:20261109T214500Z
+DTEND:20261109T234500Z
+DTSTAMP:20261109T014705Z
+UID:c9cf594e046e69450bb5@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Punch Line Philly\, 33 E Laurel St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Infusion Lounge - Philly's Best Cocktails\, Hookahs & Ci
+ gars
+DTSTART:20261109T230000Z
+DTEND:20261110T010000Z
+DTSTAMP:20261109T014705Z
+UID:81d53986fe53829a582d@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Infusion Lounge - Philly's Best Cocktails\, Hookahs & Cigars\, 16
+  S 2nd St 2nd Floor Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philly DSA Building Trades Meeting
+DTSTART:20261109T230000Z
+DTEND:20261110T003000Z
+DTSTAMP:20261109T014705Z
+UID:e05e4269ba5084cee0bd@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/philly-dsa-building-trades-meeting">http
+ s://actionnetwork.org/events/philly-dsa-building-trades-meeting</a></p>\n 
+    \n    <h5><strong>Description:</strong></h5>\n    <p>Do you work in Phi
+ ladelphia’s building trades? Are you a socialist\, or just someone who t
+ hinks the system isn’t working for us? Join us November 9th starting at 
+ 6 PM at the Pub on Passyunk East\, for an open-ended discussion on the rel
+ ationship between our politics and our work. We will review recent unions'
+  contract battles and the landscape of orgnanization within the trades gen
+ erally. What is necessary for us to fight back and demand more\, and how d
+ o we get there?</p><div><p>This event is organized by the Labor Committee 
+ of the Philadelphia Democratic Socialists of America\, but any curious bui
+ lding trades workers are welcome to attend!</p></div><div></div><div><div>
+ <div><div><div><div></div></div></div></div></div></div>\nSource: Philly D
+ SA\nhttps://www.phillydsa.org/events
+LOCATION:The Pub on Passyunk East\, 1501 Passyunk Ave\, Philadelphia\, PA 
+ 19147
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema with Comrades Happy Hour + Movie Meetup
+DTSTART:20261109T233000Z
+DTEND:20261110T023000Z
+DTSTAMP:20261109T014705Z
+UID:f3ca97406c35b8dad66c@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/cinema-with-comrades-happy-hour-movie-me
+ etup-7">https://actionnetwork.org/events/cinema-with-comrades-happy-hour-m
+ ovie-meetup-7</a></p>\n    \n    <h5><strong>Description:</strong></h5>\n 
+    <p>Are you a new DSA member looking to get started? Are you an experien
+ ced organizer who recently moved to Philly? Do you want to meet some local
+  comrades and enjoy a great movie?</p><p>Join us for Cinema with Comrades 
+ meetup + Happy Hour to chat with new friends!</p><p>Casual\, small-group g
+ athering to see a movie\, get to know each other\, grab drinks\, and explo
+ re how you can get involved in DSA. All are welcome\, even if you’re not
+  a member yet!</p><p><strong>6:30pm </strong>Wild Horse Nine (<a href="htt
+ ps://www.youtube.com/watch?v=kqxuamKxRTo">Watch Trailer</a>) at <a href="h
+ ttps://maps.app.goo.gl/kL4zYsAV87ew8gjv6">PFS Bourse</a></p><p><strong>8:4
+ 5pm</strong> Happy Hour at <a href="https://maps.app.goo.gl/r\nSource: Phi
+ lly DSA\nhttps://www.phillydsa.org/events
+LOCATION:PFS Bourse Movie Theater\, 400 Ranstead Street\, Philadelphia\, P
+ A 19106
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecosocialism November Meeting
+DTSTART:20261109T233000Z
+DTEND:20261110T010000Z
+DTSTAMP:20261109T014705Z
+UID:1cbf319c0b81a800807c@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/ecosocialism-november-meeting">https://a
+ ctionnetwork.org/events/ecosocialism-november-meeting</a></p>\n    \n    <
+ h5><strong>Description:</strong></h5>\n    <p>Join us to hear about update
+ s on our campaigns\, brainstorm new ideas\, and get to know our new member
+ s</p>\nSource: Philly DSA\nhttps://www.phillydsa.org/events
+LOCATION:Jeff's Building\, 1500 Hamilton St \, Philadelphia \, PA 19130
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night School: Imperialism 101
+DTSTART:20261110T000000Z
+DTEND:20261110T013000Z
+DTSTAMP:20261109T014705Z
+UID:c004436c3a452dd8b6a1@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/night-school-imperialism-101">https://ac
+ tionnetwork.org/events/night-school-imperialism-101</a></p>\n    \n    <h5
+ ><strong>Description:</strong></h5>\n    <p>"Imperialism is the highest st
+ age of capitalism." V. Lenin</p><p>This session will provide an introducti
+ on to the broader ideas of imperialism\, national domination\, and what co
+ lonialism looks like in the 21st century.<font> We'll also explore the rol
+ e socialist countries play in the anti-imperialist struggle and look at ho
+ w peoples across history and around the globe have used resistance and reb
+ ellion to fight back. </font></p>\nSource: Philly DSA\nhttps://www.phillyd
+ sa.org/events
+LOCATION:The People's Headquarters (PHQ)\, 924 Cherry Street\, Philadelphi
+ a\, PA 19107
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: North Third
+DTSTART:20261110T000000Z
+DTEND:20261110T020000Z
+DTSTAMP:20261109T014705Z
+UID:16f4acbfa1f452d308b5@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:North Third\, 801 N 3rd St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: 254
+DTSTART:20261110T013000Z
+DTEND:20261110T033000Z
+DTSTAMP:20261109T014705Z
+UID:49d095cd0602400fc849@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:254\, 254 S 12th St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Saint Lazarus Bar
+DTSTART:20261110T020000Z
+DTEND:20261110T040000Z
+DTSTAMP:20261109T014705Z
+UID:8e22718d99bdd348ecd1@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Saint Lazarus Bar\, 102 W. Girard Ave Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Member Engagement Committee Meeting
+DTSTART:20261111T000000Z
+DTEND:20261111T013000Z
+DTSTAMP:20261109T014705Z
+UID:9d63674225e91b874fe9@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/member-engagement-committee-meeting-62">
+ https://actionnetwork.org/events/member-engagement-committee-meeting-62</a
+ ></p>\n    \n    <h5><strong>Description:</strong></h5>\n    <p>Does it ma
+ ke you smile to put on fun events for comrades\, welcome in new friendly f
+ aces\, and help educate\, organize\, and energize our chapter? Then member
+  engagement is the place for you to get involved! We have ways to jump in 
+ for every level of interest and capacity.</p><p>Join us our our monthly me
+ eting. You can help us work on several exciting term projects\, including 
+ planning our monthly socials\, a new 201 series on to develop chapter memb
+ ership\, and fundraiser and membership drives\, or propose your own new id
+ ea to help grow our chapter!</p>\nSource: Philly DSA\nhttps://www.phillyds
+ a.org/events
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Ortlieb's
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+DTSTAMP:20261109T014705Z
+UID:c59f2b54d840a9e43d6f@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Ortlieb's\, 847 N 3rd St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“The Dispossessed” Book Club: Session #6
+DTSTART:20261111T000000Z
+DTEND:20261111T013000Z
+DTSTAMP:20261109T014705Z
+UID:951295d778df186d111c@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/the-dispossessed-book-club-session-6">ht
+ tps://actionnetwork.org/events/the-dispossessed-book-club-session-6</a></p
+ >\n    \n    <h5><strong>Description:</strong></h5>\n    <p>Join Philly DS
+ A for an exploration of the anarchist philosophy through the Science Ficti
+ on Novel <em>The Dispossessed </em>By Ursula K. Le Guin. Join to discuss\,
+  understand\, and critique anarchist philosophy by examining an imagined e
+ xample of what such a society could look like through virtual discussion.<
+ /p><p>This is a <strong>theory light</strong><strong><em> </em></strong><s
+ trong>reading group</strong>\, anarchist theory will be examined as option
+ al supplements\, but any reading beyond the novel will be done together du
+ ring the session.</p><p>This session will cover Chapters 9-10 and discussi
+ on of <a href="https://theanarchistlibrary.org/library/arnold-roller-the-s
+ ocial-general-strike#toc2"><em>The Social General Strike</\nSource: Philly
+  DSA\nhttps://www.phillydsa.org/events
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Helium Comedy Club
+DTSTART:20261111T003000Z
+DTEND:20261111T023000Z
+DTSTAMP:20261109T014705Z
+UID:12a209e3dad4f1ccc010@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Helium Comedy Club\, 2031 Sansom St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Sweeney’s Station Saloon
+DTSTART:20261111T010000Z
+DTEND:20261111T030000Z
+DTSTAMP:20261109T014705Z
+UID:d0ceabf6b7b2181a81ef@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Sweeney’s Station Saloon\, 13639 Philmont Ave Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Time
+DTSTART:20261111T020000Z
+DTEND:20261111T040000Z
+DTSTAMP:20261109T014705Z
+UID:6c2200ecba4659a1c5fa@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Time\, 1315 Sansom St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: 2 Street Pub
+DTSTART:20261111T033000Z
+DTEND:20261111T053000Z
+DTSTAMP:20261109T014705Z
+UID:7b0604514d588dc63bb6@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:2 Street Pub\, 1400 S 2nd St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Love Now Media HQ
+DTSTART:20261111T210000Z
+DTEND:20261111T230000Z
+DTSTAMP:20261109T014705Z
+UID:83005adcc4a2bc687969@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Love Now Media HQ\, 932 Market St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chess at Rittenhouse Square
+DTSTART:20261111T230000Z
+DTEND:20261112T020000Z
+DTSTAMP:20261109T014705Z
+UID:85581523c9a1f2ac76d9@philly-events
+CATEGORIES:chess
+DESCRIPTION:Source: Your list
+LOCATION:Rittenhouse Square\, Rittenhouse Square\, Philadelphia\, PA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chesco electoral committee interest meeting
+DTSTART:20261112T000000Z
+DTEND:20261112T013000Z
+DTSTAMP:20261109T014705Z
+UID:4a97b36b70534248b4a7@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/chesco-electoral-committee-interest-meet
+ ing-3">https://actionnetwork.org/events/chesco-electoral-committee-interes
+ t-meeting-3</a></p>\n    \n    <h5><strong>Description:</strong></h5>\n   
+  <p>Comrades! This is our last meeting for the Chesco Electoral Committee 
+ interest meeting. We'll be reviewing the draft resolution and hammering ou
+ t any other details before we vote to create our electoral committee at ou
+ r first in-person Chesco branch local convention! We can't wait.</p>\nSour
+ ce: Philly DSA\nhttps://www.phillydsa.org/events
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Cookie's Place
+DTSTART:20261112T000000Z
+DTEND:20261112T020000Z
+DTSTAMP:20261109T014705Z
+UID:b445fc8e8b6c433ddce8@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Cookie's Place\, 1316 S 36th St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Club 624
+DTSTART:20261112T003000Z
+DTEND:20261112T023000Z
+DTSTAMP:20261109T014705Z
+UID:2f906361c0343f7a2589@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Club 624\, 624 S 6th St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Paddy Whacks
+DTSTART:20261112T010000Z
+DTEND:20261112T030000Z
+DTSTAMP:20261109T014705Z
+UID:7cabd5e67d3197786ee4@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Paddy Whacks\, 150 South St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: SouthHouse
+DTSTART:20261112T010000Z
+DTEND:20261112T030000Z
+DTSTAMP:20261109T014705Z
+UID:81df17cf38863e40dc95@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:SouthHouse\, 2535 S 13th St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Stir Lounge
+DTSTART:20261112T010000Z
+DTEND:20261112T030000Z
+DTSTAMP:20261109T014705Z
+UID:6b70e5233ca6a40814a5@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Stir Lounge\, 1705 Chancellor St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Watutsi Pub
+DTSTART:20261112T020000Z
+DTEND:20261112T040000Z
+DTSTAMP:20261109T014705Z
+UID:8eb9186115da78c5fbee@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Watutsi Pub\, 4600 Walnut St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Socialism 101
+DTSTART:20261112T233000Z
+DTEND:20261113T010000Z
+DTSTAMP:20261109T014705Z
+UID:378c4272f671dd849519@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/socialism-101-91">https://actionnetwork.
+ org/events/socialism-101-91</a></p>\n    \n    <h5><strong>Description:</s
+ trong></h5>\n    <p>Interested in socialism but unsure where to start? Com
+ e and talk about what a better world would look like and how we can build 
+ it!</p><p>Meeting link will be provided after RSVP.</p>\nSource: Philly DS
+ A\nhttps://www.phillydsa.org/events
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Solidarity Committee New Member Orientation
+DTSTART:20261113T000000Z
+DTEND:20261113T010000Z
+DTSTAMP:20261109T014705Z
+UID:68e6d625fcb9caffbab4@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/international-solidarity-committee-new-m
+ ember-orientation-2">https://actionnetwork.org/events/international-solida
+ rity-committee-new-member-orientation-2</a></p>\n    \n    <h5><strong>Des
+ cription:</strong></h5>\n    <p>Join the International Solidarity Committe
+ e to learn more about the committee\, how it fits into Philadelphia DSA\, 
+ the campaigns/sub-committees and how to get involved in the work of ISC.</
+ p>\nSource: Philly DSA\nhttps://www.phillydsa.org/events
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Gojjo
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+DTSTAMP:20261109T014705Z
+UID:7cdb0ad05bf54142da0e@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Gojjo\, 4540 Baltimore Ave Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: The Monkey Club
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+DTSTAMP:20261109T014705Z
+UID:4a588629e1f1e1cdbee2@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:The Monkey Club\, 2101 E York St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: McGillin's Olde Ale House
+DTSTART:20261113T020000Z
+DTEND:20261113T040000Z
+DTSTAMP:20261109T014705Z
+UID:4ad67145db978329dd96@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:McGillin's Olde Ale House\, 1310 Drury St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: Moonshine Philly
+DTSTART:20261113T030000Z
+DTEND:20261113T050000Z
+DTSTAMP:20261109T014705Z
+UID:fe003bd00a468c3e2c48@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:Moonshine Philly\, 1825 E Moyamensing Ave Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: One Art Community Center
+DTSTART:20261114T000000Z
+DTEND:20261114T020000Z
+DTSTAMP:20261109T014705Z
+UID:0262b2be852898ca9880@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:One Art Community Center\, 1431-39 N 52nd St Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philly DSA Healthcare Workers Meetup
+DTSTART:20261114T000000Z
+DTEND:20261114T013000Z
+DTSTAMP:20261109T014705Z
+UID:fa8f4273d1da517837bd@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/philly-dsa-healthcare-workers-meetup">ht
+ tps://actionnetwork.org/events/philly-dsa-healthcare-workers-meetup</a></p
+ >\n    \n    <h5><strong>Description:</strong></h5>\n    <p>Do you work in
+  Philadelphia’s healthcare industry? Are you a socialist\, or just someo
+ ne who thinks the system isn’t working for us and our patients? Join us 
+ November 13th starting at 7 PM at MOTW Coffee and Pastries\, for an open-e
+ nded discussion on the relationship between our politics and our work. We 
+ will review recent nurses' contract battles before a discussion on perspec
+ tives for healthcare fights going forward with the Medicaid cuts hanging o
+ ver our heads. What is necessary for us to fight back and demand more\, an
+ d how do we get there?</p><p>This event is organized by the Labor Committe
+ e of the Philadelphia Democratic Socialists of America\, but any curious h
+ ealthcare professionals are welcome to attend!</p>\nSource: Philly DSA\nht
+ tps://www.phillydsa.org/events
+LOCATION:MOTW Coffee and Pastries\, 2101 Market St\, Philadelphia\, PA 191
+ 03
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When ICE Melts Film Screening
+DTSTART:20261114T000000Z
+DTEND:20261114T013000Z
+DTSTAMP:20261109T014705Z
+UID:984d520a14390cccf5dc@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/when-ice-melts-film-screening">https://a
+ ctionnetwork.org/events/when-ice-melts-film-screening</a></p>\n    \n    <
+ h5><strong>Description:</strong></h5>\n    <p><strong>Join us for the Phil
+ adelphia premiere of When ICE Melts - a documentary about the heroic resis
+ tance to operation metro surge by the people of Minnesota.</strong></p><p>
+ This event will raise funds for the <strong>Minnesota 15</strong>\, who ar
+ e all facing years in prison for exercising their rights and defending the
+ ir neighbors from ICE. Free entry\, donate if you can.<span></span></p>\nS
+ ource: Philly DSA\nhttps://www.phillydsa.org/events
+LOCATION:Calvary United Methodist Church\, 801 s 48 st\, Philadelphia\, PA
+  19143
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: The Heart Ballroom Philly (Banquet Hall)
+DTSTART:20261114T003000Z
+DTEND:20261114T023000Z
+DTSTAMP:20261109T014705Z
+UID:0e477dbd52bf9b1124b0@philly-events
+CATEGORIES:open-mic
+DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
+ elphia-open-mics.php
+LOCATION:The Heart Ballroom Philly (Banquet Hall)\, 2038 E Willard St 1st 
+ Fl Philadelphia PA
+TRANSP:TRANSPARENT
+URL:https://badslava.com/philadelphia-open-mics.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DSA Family Hike
+DTSTART:20261114T160000Z
+DTEND:20261114T180000Z
+DTSTAMP:20261109T014705Z
+UID:8ae5f7502a8dbd288d8d@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/dsa-family-hike">https://actionnetwork.o
+ rg/events/dsa-family-hike</a></p>\n    \n    <h5><strong>Description:</str
+ ong></h5>\n    <p>Come join us for a family hike in Whissahickon Valley Pa
+ rk! Enjoy nature while connecting with other parents and caregivers in Phi
+ lly DSA. We'll meet at PAPERTrail Bike Cafe off Lincoln Drive\, go for a b
+ rief hike\, then return to the cafe for coffee and snacks. See you there!<
+ /p>\nSource: Philly DSA\nhttps://www.phillydsa.org/events
+LOCATION:PAPERTrail Bike Cafe\, 211 Lincoln Drive\, Philadelphia\, PA 1911
+ 9
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Political Education Committee Meeting
+DTSTART:20261114T173000Z
+DTEND:20261114T190000Z
+DTSTAMP:20261109T014705Z
+UID:9883e6a37a00b0b3e345@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/political-education-committee-meeting-17
+ 5">https://actionnetwork.org/events/political-education-committee-meeting-
+ 175</a></p>\n    \n    <h5><strong>Description:</strong></h5>\n    <p>Come
+  join the November Political Education Committee to get involved in Politi
+ cal Education for the chapter!</p>\nSource: Philly DSA\nhttps://www.philly
+ dsa.org/events
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:City Camp Philly
+DTSTART:20261115T140000Z
+DTEND:20261115T210000Z
+DTSTAMP:20261109T014705Z
+UID:7ed725f61efe3bcf1ea2@philly-events
+CATEGORIES:dsa
+DESCRIPTION:Source: Philly DSA\nhttps://www.phillydsa.org/events
+LOCATION:Philadelphia Ethical Society\, 1906 Rittenhouse Square\, Philadel
+ phia\, PA 19103\, USA
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Huge DSA Canvass Launch
+DTSTART:20261115T160000Z
+DTEND:20261115T190000Z
+DTSTAMP:20261109T014705Z
+UID:a9da0e06ea1ec5763164@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<p>Philly DSA is undertaking an unprecedented effort to elect 
+ socialist candidates that can take on the ruling class in our city. We’r
+ e up against party insiders\, special interests\, and millions of dollars 
+ in spending. The most effective tool we have is conversations with voters 
+ at the doors—and the sooner we start\, the more power we have. </p><p>T
+ ogether\, we can knock on thousands of doors to launch our campaign and si
+ gnal the power of our movement. No experience is necessary.</p><p><a href=
+ "https://airtable.com/appjEirWtBQVOryj0/pagmcO839uxzFYy1s/form">RSVP HERE<
+ /a></p>\nSource: Philly DSA\nhttps://www.phillydsa.org/events
+LOCATION:Columbus Square Park\, 1200 Wharton St\, Philadelphia\, PA 19147
+ \, USA
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chess at Rittenhouse Square
+DTSTART:20261115T180000Z
+DTEND:20261115T220000Z
+DTSTAMP:20261109T014705Z
+UID:b249ff7396ea96049f23@philly-events
+CATEGORIES:chess
+DESCRIPTION:Source: Your list
+LOCATION:Rittenhouse Square\, Rittenhouse Square\, Philadelphia\, PA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philly DSA STEM Workers Meeting
+DTSTART:20261115T190000Z
+DTEND:20261115T203000Z
+DTSTAMP:20261109T014705Z
+UID:bba16b7d7967f98f3f2c@philly-events
+CATEGORIES:dsa
+DESCRIPTION:<h5><strong>More Info and RSVP:</strong></h5>\n    <p><a href=
+ "https://actionnetwork.org/events/philly-dsa-stem-workers-meeting-2">https
+ ://actionnetwork.org/events/philly-dsa-stem-workers-meeting-2</a></p>\n   
+  \n    <h5><strong>Description:</strong></h5>\n    <p>Do you work in Phila
+ delphia’s STEM industry? Are you a socialist\, or just someone who think
+ s the system isn’t working for us? Join us November 15th starting at 2 P
+ M at the Haraz Coffee House\, for an open-ended discussion on the relation
+ ship between our politics and our work. We will review the political lands
+ cape\, the threats on federal grants\, and the possibilities to organize. 
+ What is necessary for us to fight back and demand more\, and how do we get
+  there?</p><p>This event is organized by the Labor Committee of the Philad
+ elphia Democratic Socialists of America\, but any curious STEM workers are
+  welcome to attend!</p>\nSource: Philly DSA\nhttps://www.phillydsa.org/eve
+ nts
+LOCATION:Haraz Coffee House\, 3421 Chestnut St\, Philadelphia\, PA 19104
+TRANSP:TRANSPARENT
+URL:https://www.phillydsa.org/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open mic: The Fallser Club
+DTSTART:20261115T230000Z
+DTEND:20261116T010000Z
+DTSTAMP:20261109T014705Z
+UID:04c6919a2d19a20e0df4@philly-events
 CATEGORIES:open-mic
 DESCRIPTION:Source: Badslava comedy open mics\nhttps://badslava.com/philad
  elphia-open-mics.php
